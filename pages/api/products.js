@@ -1,3 +1,4 @@
+
 export default async function handler(req, res) {
   const webserviceUrl = "https://stagev2.instantbeaute.shop/api/products";
   const webserviceKey = "H6YA27UKZJAJG3WU3VJQQLUNBFNJWRRT";
